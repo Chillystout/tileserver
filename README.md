@@ -39,7 +39,7 @@ L.tileLayer('https://github.com/Chillystout/tileserver/raw/main/DarkMode/{z}/{x}
     maxZoom: 18,
     attribution: 'Map data &copy; <a href="https://www.maptiler.com/">MapTiler</a>'
 }).addTo(map);
-
+```
 
 ### OpenLayers
 
@@ -60,12 +60,12 @@ var map = new ol.Map({
         zoom: 2
     })
 });
-
-
-
+```
 
 ### Buy Me a Coffee
 If you find this project useful and would like to support its development, consider buying me a coffee! Your support helps keep the project going and motivates future updates.
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="chillystout" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 
 ### License
