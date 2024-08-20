@@ -51,7 +51,7 @@ var map = new ol.Map({
     layers: [
         new ol.layer.Tile({
             source: new ol.source.XYZ({
-                url: 'https://your-tile-server-url/{z}/{x}/{y}.png'
+                url: 'https://github.com/Chillystout/tileserver/raw/main/DarkMode/{z}/{x}/{y}.png'
             })
         })
     ],
